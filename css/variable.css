@@ -1,0 +1,37 @@
+:root
+{
+   
+  --font-family: 'Plus Jakarta Display';
+  /* text color */
+  --color:#FFFFFF;
+  /* sidebar box color */
+  --scolor:#1A1F37;
+  /* icon color */
+ --iconcolor:#0075FF;
+ /* gray text color */
+   --textcolor:#A0AEC0;
+  /* green color */
+  --greencolor:#01B574;
+
+
+     --bgcolor:#060B26;
+     --inputcolor:#0F1535;
+     --width:1558px;
+     --sidebarheight:1135px;
+
+   
+     --box1color:#060B26BD;
+     --box2color:#1A1F3780;
+     --midcolor:#060B28F0;
+     --mid2color:#0A0E237D;
+   
+     --button1color:#060B28BD;
+     --button2color:#0A0E23B5;
+     --button3color:#060C29;
+     --button4color:#040C3080;
+     --lion2color:#2D2E5F;
+     --vector3color:#56577A;
+   
+
+
+}
